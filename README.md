@@ -16,7 +16,3 @@ This is a beginner-friendly command-line game that supports 2–4 players and de
 1. Make sure you have Python 3 installed
 2. Download or clone this repository
 3. Open a terminal in the project folder
-4. Run the game:
-
-```bash
-python dice_game.py
