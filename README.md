@@ -22,6 +22,4 @@ Open a terminal and navigate to the project folder
 Run the game with:
 
 bash
-Copy
-Edit
 python dice_game.py  
