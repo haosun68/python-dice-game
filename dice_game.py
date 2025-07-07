@@ -5,8 +5,6 @@ def roll():
     roll = random.randint(min_value,max_value)
     return roll
 
-
-
 while True:
     players = input("Enter a number of players(2-4):")
     if players.isdigit():
