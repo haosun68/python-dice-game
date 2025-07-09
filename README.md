@@ -22,4 +22,4 @@ Open a terminal and navigate to the project folder
 Run the game with:
 
 
-python dice_game.py  
+python dice_game.py 
